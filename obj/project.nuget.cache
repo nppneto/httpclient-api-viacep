@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hQh6sW8HCN4yLkZEiNnTfst9AbCWIzxwtUah6o8gx+av6zsDKkKW6KL0KpCFqpaVZdAMO2mmS9qz0n/zVrOoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nelson Neto\\source\\repos\\ConsumindoAPI\\ConsumindoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nelson Neto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
